@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_stats_bug_repro=self.webpackChunkwebpack_stats_bug_repro||[]).push([["src_hello_js"],{395:(s,e,l)=>{async function o(){console.log("hello");const{world:s}=await l.e("src_world_js").then(l.bind(l,620));s()}l.r(e),l.d(e,{hello:()=>o})}}]);

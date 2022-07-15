@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_stats_bug_repro=self.webpackChunkwebpack_stats_bug_repro||[]).push([["src_world_js"],{620:(s,e,r)=>{function o(){console.log("world")}r.r(e),r.d(e,{world:()=>o})}}]);

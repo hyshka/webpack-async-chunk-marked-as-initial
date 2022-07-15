@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_stats_bug_repro=self.webpackChunkwebpack_stats_bug_repro||[]).push([["first"],{353:(s,e,a)=>{!async function(){const{hello:s}=await a.e("src_hello_js").then(a.bind(a,395));s()}()}},s=>{s(s.s=353)}]);
